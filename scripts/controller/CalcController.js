@@ -201,6 +201,7 @@ class CalcController{
         });
         this.displayTime = this.currentDate.toLocaleTimeString(this._locale);
     }
+    
 
     get displayTime(){
         return this._timeEl.innerHTML;
