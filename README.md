@@ -1,7 +1,7 @@
 # Calculadora JavaScript
 
 ###### Calculadora desenvolvida com javascript
-###### Acesse em [https://lukkaslima.com/https:/calculadora-js](https://lukkaslima.com/calculadora-js "Calculadora JS")
+###### Acesse em [https://lukkaslima.com/calculadora-js](https://lukkaslima.com/calculadora-js "Calculadora JS")
 
 ### Detalhes
 ###### Utilização de orientação a objetos
